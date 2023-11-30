@@ -1,0 +1,7 @@
+.container{
+    width: fit-content;
+    height: auto;
+    border: solid 1px black;
+    border-radius: 10px;
+    padding: 2%;
+}
