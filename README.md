@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 
 # Simple Calculator using React.js
 
+## Live website
+https://calculator-rishvant.vercel.app
+
 ## For local developent
 
 ### Clone the repository in your local machine
